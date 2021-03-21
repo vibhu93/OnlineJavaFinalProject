@@ -48,7 +48,7 @@ public class Demo {
 		
 		System.out.println(SB.reverse());
 		
-		//********Approch 3*********
+		//********Approch 4*********
 		
 		StringBuilder STRB= new StringBuilder(str);
 		System.out.println(STRB.reverse());
